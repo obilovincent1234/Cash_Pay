@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "662226194814",
+    "project_id": "musicstudiocomng",
+    "storage_bucket": "musicstudiocomng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662226194814:android:45ec48c6c753d78885a32f",
+        "android_client_info": {
+          "package_name": "com.cash.pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662226194814-sa4apqgmav8r78pb5ir8nq5jdm9ps5r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6T7cE2AkFoyeMlDsJd2Jv4brCCAa2924"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662226194814-sa4apqgmav8r78pb5ir8nq5jdm9ps5r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662226194814:android:46f2f8aa10b5832e85a32f",
+        "android_client_info": {
+          "package_name": "com.vincenttech.statussavers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662226194814-sa4apqgmav8r78pb5ir8nq5jdm9ps5r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6T7cE2AkFoyeMlDsJd2Jv4brCCAa2924"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662226194814-sa4apqgmav8r78pb5ir8nq5jdm9ps5r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
